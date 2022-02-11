@@ -73,23 +73,23 @@ Podría decirse que este tipo de actividades, en lugar der ser netamente laboral
 
 Actualmete la Economía Colaborativa ha permitido el surgimientos de grandes empresas como Uber o Airbnb, en las cuales el centro de todo gira en torno a compartir recursos entre los usuarios. Con esto en mente, hemos pensado: si se comparten medio de transporte, hogares, experiencias...¿por qué no compartir un trabajo?
 
-De allí surge la idea de que a través de un intercambio de trabajo, las personas tenga la posibilidad de tener una corta estancia en un empresa completamente diferente para la cual trabaja, de modo que no solo el profesional pueda aprender de la organización que lo acoge, sino que además éste aporte experiencia, conocimiento y otros puntos de vista de abodar las situaciones que se presentan en una empresa en el día a día.
+De allí surge la idea de que a través de un intercambio de trabajo, las personas tenga la posibilidad de tener una corta estancia en un empresa completamente diferente para la cual trabaja, de modo que no solo el profesional pueda aprender de la organización que lo acoge, sino que además éste aporte experiencia, conocimiento y otros puntos de vista para abodar las situaciones que se presentan en el día a día.
 
 **Personas/Usuarios**
 
 La utilidad va más allá de un beneficio económico o algo similar. En realidad lo que beneficia a las personas es la posibilidad de salir de la rutina laboral y poder ampliar las perspectivas y horizontes hacia otros sectores empresariales. De igual forma, los usuarios de la comunidad aprenderán diferentes formas de trabajar y podrán aportar saberes y nuevas puntos de vista, al tiempo que su red de contactos personales y profesionales se incrementa.
 
-Nuestro público serán trabajadores entre 20 y 45 años, que actualmente se encuentren laborando en una organización. Por supuesto, tendremos únicamente inscristas a las personas que les interese realizar un intercambio laboral en otra empresa, así como instituciones inscritas en la plataforma que estén interesadas en permitir este tipo de intercambios.
+Nuestro público serán trabajadores entre 20 y 45 años, que actualmente se encuentren laborando en una organización. Por supuesto, tendremos únicamente inscristas a las personas que les interese realizar un intercambio laboral en otra empresa, así como instituciones que estén dispuestas a permitir este tipo de intercambios.
 
 **Las reglas claras desde el principio**
 
 1. La empresa que acoge a un empleado no podrá permitir la estancia si éste proviene de una organización que sea competencia directa.
 
-2. Para que una persona vaya a trabajar a otra organización, no necesariamente ésta última tendrá que enviar un colaborador a la empresa de la cual provenga la persona. Por supuesto que será permito hacer un intercambio bidireccional, pero una estancia unidireccional también es permitida.
+2. Para que una persona vaya a trabajar a otra organización, no necesariamente ésta última tendrá que enviar un colaborador a la empresa de la cual provenga la persona. Por supuesto que será permito hacer un intercambio bidireccional, pero una estancia unidireccional también será permitida.
 
 3. La estancia máxima del intercambio laboral no podrá ser superior a 3 meses.
 
-4. Se debe firmar un documento de confidencialidad, de modo que la empresa que acoge al colaborador no tenga temor alguno sobre el manejo que se de a su información empresarial.
+4. Se debe firmar un documento de confidencialidad, de modo que la empresa que acoge al colaborador no tenga temor alguno sobre el manejo que se de a su información empresarial y su saber hacer.
 
 ### Etapa 2: Prototipar / productos 
 
@@ -99,31 +99,27 @@ Nuestro público serán trabajadores entre 20 y 45 años, que actualmente se enc
 
 * Además de crear una página web, consideramos fundamental poder tener nuestra app móvil. Por esta razón, a continuación mostramos un prototipo de intefaz realizada en la herramienta Just In Mind:
 
+### Etapa 3: Técnicas de evaluación utilizadas 
 
+* Encuestas/entrevistas: antes del lanzamiento de la comunidad, sería muy interesante realizar encuentas a los potenciales suscriptores que harían parte de ella. Por supuesto que nos centraríamos en las personas que trabajan actualmente, para conocer el grado de interés que esta posibilidad de intercambio representaría para ellos. De igual forma, habría que realizar un proceso pero con las empresas.
 
-### Etapa 3: Técnicas de evaluación utilizadas
-
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
-
-* Encuestas/entrevistas: antes del lanzamiento de la comunidad, sería muy interesante realizar encuentas a los potenciales suscriptores que harían parte de ella. Por supuesto que nos centraríamos en las personas que trabajan actualmente, para conocer el grado de interés que esta posibilidad de intercambio representaría para ellos. De igual, habría que realizar un proceso pero con las empresas.
-
-Este último, representa un gran reto, pues hablar con un posible candidado es muy sencillo, pero abordar al responsable de una empresa que, eventualmente permitiese el intercambio, resulta mucho más complejo de abordar.
+Este último, representa un gran reto, pues hablar con un posible candidado es muy sencillo, pero abordar al        responsable de una empresa que, eventualmente permitiese el intercambio, resulta mucho más complejo de abordar.
 
 * Medición de indicadores online: de cara a las plataformas Web, proponemos utilizar herramientas como Metricool para extraer estadísticas de nuestra página web y redes sociales, de modo que podamos ver la evolución de la comunidad en términos de alta de usuarios, comentarios, experiencias (positivas o negativas), empresas y personas suscritas, etc.
 
-En este punto, resulta fundamental ver la cantidad de personas que se acercan a la comunidad, el número que se suscribe y la cantidad que permanece en ella. Lo mismo aplica para las empresas, pues tanto colaborados como industria son necesarios para el éxito de la propuesta.
+En este punto, resulta fundamental ver la cantidad de personas que se acercan a la comunidad, el número que se suscribe, la cantidad que permanece en ella, así como el número que se da de baja. Lo mismo aplica para las empresas, pues tanto colaborados como industria son necesarios para el éxito de la propuesta.
 
 ### Conclusiones y trabajo futuro
 
 * Grado de consecución del proyecto: 
 
-La comunidad online está en fase de idea y planificación. Es posible su implementación pero realizando mejoras que serán descritas a continuación. 
+La comunidad online está en fase de idea y planificación. Es posible su implementación, pero realizando las mejoras que serán descritas a continuación. 
  
 * Problemas identificados:
 
-A nivel técnico, la implementación de la comunidad no representa un desafío machos. Si bien cierto que se debería desarrollar una página web y app móvil muy atractiva, se cuenta con el suficiente talento y profesional de apoyo para llevarlas a cabo. 
+A nivel técnico, la implementación de la comunidad no representa un gran desafío. Si bien cierto que se debería desarrollar una página web y app móvil muy atractiva, se cuenta con el suficiente talento y experiencia de para llevarlas a cabo. 
 
-En cuanto a la idea como tal, ha tenido un alto grado de aceptación, principalmente entre las personas; sin embargo, acá es donde aparece el gran desafío: convencer a las empresas de unirse a nuestra comunidad y permitir que su talento humano vaya a otras empresas y que externos vengan a trabajar en sus instalaciones. Como es de esperarse, las organizaciones son muy celosas con el manejo de la información que sus colaborados puedan dar a externos, por más claúsulas que se firmen. El mero hecho de que una persona vaya por ahí contando su forma de trabajar, no es algo que los empresarios estén dispuestos a permitir.
+En cuanto a la idea como tal, ha tenido un alto grado de aceptación, principalmente entre las personas; sin embargo, acá es donde aparece el gran desafío: convencer a las empresas de unirse a nuestra comunidad, permitiendo que su talento humano vaya a otras empresas y que externos vengan a trabajar en sus instalaciones. Como es de esperarse, las organizaciones son muy celosas con el manejo de la información que sus colaborados puedan dar a externos, por más claúsulas que se firmen. El simple hecho de que una persona vaya por ahí contando su forma de trabajar, no es algo que los empresarios estén dispuestos a permitir.
 
 * Propuestas de mejora:
 
@@ -131,7 +127,7 @@ Creemos en el potencial que pueda tener la comunidad una vez puesta en marcha. E
 
 * Posible interés del proyecto:
 
-Está claro que la mayoría de persona ve muy interesante poder hacer parte de la comunidad, el gran desafio lo constituyen las empresas. Para subsanar esta dificultad, hemos pensado, inicialmente, acudir a entes y/o asociones público - privadas que aglomeren industrias de todo tipo, para contarles de nuestra idea y que vean los beneficios que se ofrencen con ésta. Un ejemplo podría ser acudir a la Cámara de Comercio de Granada, de modo que en unos de sus eventos nos permitieran plantear a los empresarios la propuesta.
+Está claro que la mayoría de persona ve muy interesante poder hacer parte de la comunidad, el gran desafio lo constituyen las empresas. Para subsanar esta dificultad, hemos pensado, inicialmente, acudir a entes y/o asociones público - privadas que aglomeren industrias de todo tipo, para contarles de nuestra idea y que vean los beneficios que se ofrencen con ésta. Un ejemplo podría ser acudir a la Cámara de Comercio de Granada, de modo que en uno de sus eventos nos permitieran plantear a los empresarios la propuesta.
 
 ### Referencias y recursos: 
  
