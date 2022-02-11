@@ -28,7 +28,11 @@ Nuestro principal objetivo es compartir experiencia, puntos de vista y aportes e
 #oportunidad
 #laboral
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia**: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+
+Para el proyecto, utilizamos la licencia de tipo Reconocimiento-NoComercial-CompartirIgual
+
+![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/Licencia.jpg)
 
 **Fecha** : 2022
 
