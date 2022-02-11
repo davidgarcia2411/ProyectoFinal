@@ -11,15 +11,15 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Autor(es)** Javier Guerra y David Alejandro Garcia
 
-**Resumen** : Somos una comunidad Online que le permite a las personas realizar un corto intercambio laboral entre las empresas inscritas en la plataforma.
+**Resumen** : Somos una comunidad online que le permite a las personas realizar un corto intercambio laboral entre las empresas inscritas en la plataforma, forma muy similar a como se efectúan los intercambios de estudiantes entre las universidades.
 
-Nuestro principal objetivo es compartir experiencia, puntos de vista y aportes entre las empresas y sus colaboradores.
+Nuestro principal objetivo es compartir experiencia, puntos de vista, know how y aportes entre las empresas y sus colaboradores.
 
 **logotipo** : 
 
 ![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://user-images.githubusercontent.com/98233176/151228964-ace1ff80-eeed-461d-8e96-2d7c805ffa3c.jpeg)
 
-**Slogan**: ¡aprende colaborando!
+**Slogan**: ¡Aprende colaborando!
 
 **Hashtag**
 
@@ -27,6 +27,7 @@ Nuestro principal objetivo es compartir experiencia, puntos de vista y aportes e
 #trabajo
 #oportunidad
 #laboral
+#empresas
 
 **Licencia**: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
@@ -34,20 +35,23 @@ Para el proyecto, utilizamos la licencia de tipo Reconocimiento-NoComercial-Comp
 
 ![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/Licencia.jpg)
 
-**Fecha** : 2022
+**Fecha** : Febrero 2022, Granada.
 
-**Medios**: principales redes sociales como Facebook, Instagram, Twitter para darnos a conocer como empresa, pero nuestra red social más importante para hacer presencia será LinkedIn por tratarse de la principal red de contactos laborales.
+**Medios**: nuestros principales medios de difusión serán, como no podría ser de otro modo, redes sociales como Facebook, Instagram, Twitter para darnos a conocer como comunidad, pero nuestra red social más importante para hacer presencia será LinkedIn por tratarse de la principal red de contactos laborales a nivel mundial.
 
 *  :octocat: https://github.com/davidgarcia2411/ProyectoFinal
 * LinkedIn
 * Twitter 
 * Facebook
-* Instagram 
+* Instagram
+ 
 --- 
 
 ### Metodología
 
-Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+El primer paso para desarrollar la propuesta de comunidad, fue crear una lluvia de ideas como grupo para determinar la comunidad de que ibámos a proponer.
+
+Posteriormente, utilizando técnicas de Design Thinking y diseño de experiencias de usuario (UX), se desarrollaron prototipos de página web y app móvil, con el objetivo de dar un primer acercamiento a lo que podría ser la puesta en producción del proyecto.
 
 ### Etapa 1: Ideación de proyecto 
 
@@ -57,13 +61,13 @@ Actividades realizadas mediante Trello https://trello.com/b/kLcsXX37/planificaci
 
 **Investigación de campo**
 
-Como creadores de la comunidad, hemos investigado si en el mercado existen otras plataformas alternativa y no hemos encontrado al similar. Si bien es cierto que se comparten casas/pisos, coches, espacios físicos de trabajo; no existe, de momento, una comunidad online que le permita a las personas intercambiar trabajos como lo hemos propuesto.
+Como creadores de la comunidad, hemos investigado si en el mercado existen otras plataformas alternativas y no hemos encontrado algo similar. Si bien es cierto que se comparten casas/pisos, coches, espacios físicos de trabajo; no existe, de momento, una comunidad online que le permita a las personas intercambiar trabajos como lo hemos propuesto.
 
 **Necesidad/oportunidad** 
 
 Dadas las condiciones actuales, en términos laborales, podría decirse que tener un trabajo estable y bien remunerado es prácticamente una lotería. Los jóvenes hemos tenido que aprender a lidiar con tiempos turbulentos que presentan un panorama un tanto gris a nivel laboral. Sin embargo, a pesar de estas dificultadas y sin el ánimo de comprometer la estabilidad laboral de las personas ni las actividades de las empresas, nuestra comunidad pretender dar a los colaboradores la oportunidad de hacer un intercambio de trabajo, de modo que se generen acuerdo de ganancia mútua entre las partes. 
 
-Podría decirse que este tipo de actividades, en lugar der ser netamente laborales, están orientadas a la ofrecer a las personas espacios y oportunidades, periodos de tiempo en que se toma un nuevo aire, se aprende y se crece como persona y profesional.
+Podría decirse que este tipo de actividades, en lugar der ser netamente laborales, están orientadas a ofrecer a las personas espacios y oportunidades, periodos de tiempo en que se toma un nuevo aire, se aprende y se crece como persona y profesional.
 
 **Motivación de la propuesta**
 
