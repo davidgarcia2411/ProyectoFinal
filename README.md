@@ -95,7 +95,9 @@ este tipo de intercambios.
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* A continuación, queremos mostrar una primera interfaz de lo que sería nuestra página web: https://davidgarcia2411.github.io/Web-Site/
+
+![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/P%C3%A1gina%20web.jpg)
 
 * redes sociales (...) 
 
