@@ -35,7 +35,7 @@ Nuestro principal objetivo es compartir experiencia, puntos de vista y aportes e
 **Medios**: principales redes sociales como Facebook, Instagram, Twitter para darnos a conocer como empresa, pero nuestra red social más importante para hacer 
 presencia será LinkedIn por tratarse de la principal red de contactos laborales.
 
-*  :octocat: https://github.com/davidgarcia2411/ExchangeWork-2122-ICFE/blob/gh-pages/Descripci%C3%B3n%20Comunidad
+*  :octocat: https://github.com/davidgarcia2411/ProyectoFinal
 * LinkedIn
 * Twitter 
 * Facebook
@@ -49,6 +49,8 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 ### Etapa 1: Ideación de proyecto 
 
 Actividades realizadas mediante Trello https://trello.com/b/kLcsXX37/planificaci%C3%B3n-del-proyecto
+
+![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://user-images.githubusercontent.com/98233176/151228964-ace1ff80-eeed-461d-8e96-2d7c805ffa3c.jpeg)
 
 **Investigación de campo**
 
