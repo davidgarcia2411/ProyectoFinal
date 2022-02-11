@@ -77,6 +77,16 @@ La utilidad va más allá de un beneficio económico o algo similar. En realidad
 
 Nuestro público serán trabajadores entre 20 y 45 años, que actualmente se encuentren laborando en una organización. Por supuesto, tendremos únicamente inscristas a las personas que les interese realizar un intercambio laboral en otra empresa, así como instituciones inscritas en la plataforma que estén interesadas en permitir este tipo de intercambios.
 
+#  Las reglas claras desde el principio:
+
+1. La empresa que acoge a un empleado no podrá permitir la estancia si éste proviene de una organización que sea competencia directa.
+
+2. Para que una persona vaya a trabajar a otra organización, no necesariamente ésta última tendrá que enviar un colaborador a la empresa de la cual provenga la persona. Por supuesto que será permito hacer un intercambio bidireccional, pero una estancia unidireccional también es permitida.
+
+3. La estancia máxima del intercambio laboral no podrá ser superior a 3 meses.
+
+4. Se debe firmar un documento de confidencialidad, de modo que la empresa que acoge al colaborador no tenga temor alguno sobre el manejo que se de a su información empresarial.
+
 ### Etapa 2: Prototipar / productos 
 
 * A continuación, queremos mostrar una primera interfaz de lo que sería nuestra página web: https://davidgarcia2411.github.io/Web-Site/
@@ -127,18 +137,8 @@ Está claro que la mayoría de persona ve muy interesante poder hacer parte de l
 * Herramientas para crear página web en GitHub.
 * Herramienta de prototipado Just In Mind.
 * Trello para la planificación y seguimiento de las actividades.
-
-----
-
-**Referencias y recursos utilizados** :
-
+* Técnicas de Brainstorming y Design Thinking para dar forma a la propuesta.
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
-
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
