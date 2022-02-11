@@ -50,7 +50,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/kLcsXX37/planificaci%C3%B3n-del-proyecto
 
-https://github.com/davidgarcia2411/ProyectoFinal/blob/main/Trello%20proyecto.jpg
+![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/Trello%20proyecto.jpg)
 
 **Investigación de campo**
 
