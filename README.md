@@ -97,9 +97,19 @@ Nuestro público serán trabajadores entre 20 y 45 años, que actualmente se enc
 
 ![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/P%C3%A1gina%20web.jpg)
 
-* Además de crear una página web, consideramos fundamental poder tener nuestra app móvil. Por esta razón, a continuación mostramos un prototipo de intefaz realizada en la herramienta Just In Mind: http://localhost:21303/-6409922346113251942/index.html#/screens/d12245cc-1680-458d-89dd-4f0d7fb22724
+* Además de crear una página web, consideramos fundamental poder tener nuestra app móvil. Por esta razón, a continuación mostramos un prototipo de intefaz realizada en la herramienta Just In Mind:
 
 ![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/Men%C3%BA%20Inicio.jpg)
+
+En esta imagen, se puede observar el menú de inicio...
+
+![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/Registro%20Usuarios.jpg)
+
+En esta imagen, se puede observar el menú de registro...
+
+![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/B%C3%BAsqueda%20Intercambios.jpg)
+
+En esta imagen, se puede observar la búsqueda....
 
 ### Etapa 3: Técnicas de evaluación utilizadas 
 
