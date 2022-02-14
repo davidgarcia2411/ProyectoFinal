@@ -101,15 +101,15 @@ Nuestro público serán trabajadores entre 20 y 45 años, que actualmente se enc
 
 ![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/Men%C3%BA%20Inicio.jpg)
 
-En esta imagen, se puede observar el menú de inicio...
+En esta imagen, se puede observar el menú de inicio general de la aplicación propuesta. En la primera pantalla de móvil se observa el ícono de la aplicación con el logo establecido. En la sengunda y tercera pantalla se pueden observar un par de mensajes descriptivos de la comunidad, con el objetivo de persuadir a los posibles miembros de que se suscriban y poder gozar de los beneficios trazados para nuestra comunidad.
 
 ![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/Registro%20Usuarios.jpg)
 
-En esta imagen, se puede observar el menú de registro...
+En esta imagen, se puede observar el menú de registro tanta para personas como empresas, así como los formularios de datos para cada una de las opciones. En la primera pantalla, si es una empresa la que se registra se le envía a la segunda para que se registre. Por el contrario, si es una persona la que se registra se le envía a la tercera para que haga lo propio.
 
 ![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/B%C3%BAsqueda%20Intercambios.jpg)
 
-En esta imagen, se puede observar la búsqueda....
+En esta imagen, se puede observar la búsqueda que podrán realizar los miembros de nuestra comunidad. Si es una empresa, en la primera pantalla se puede observar cómo podrá realizar la búsqueda de candidatos; mientras que en la segunda, es una persona la que podrá buscar empresas inscritas para realizar el proceso de intercambio.
 
 ### Etapa 3: Técnicas de evaluación utilizadas 
 
