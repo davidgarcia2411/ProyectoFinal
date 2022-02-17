@@ -44,6 +44,12 @@ Para el proyecto, utilizamos la licencia de tipo Reconocimiento-NoComercial-Comp
 * Twitter 
 * Facebook
 * Instagram
+
+**Vídeo promocional**:
+
+A continuación, compartimos un breve vídeo que resume nuestra comunidad:
+
+https://www.canva.com/design/DAE4mxf6Xys/jinQHPl2kePHJUYjzXz9Cg/watch?utm_content=DAE4mxf6Xys&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
  
 --- 
 
@@ -155,6 +161,7 @@ Está claro que la mayoría de personas ve muy interesante poder hacer parte de 
 * Herramientas para crear página web en GitHub.
 * Herramienta de prototipado Just In Mind.
 * Trello para la planificación y seguimiento de las actividades.
+* Canva para la presentación de la comunidad.
 * Técnicas de Brainstorming y Design Thinking para dar forma a la propuesta.
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
