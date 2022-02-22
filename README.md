@@ -107,13 +107,13 @@ Para una mejor comprensión del funcionamiento de la comunidad, a nivel de proce
 
 ### Etapa 2: Prototipar / productos 
 
-* El primer prototipo que queremos mostrar en el diseño de una cabecera, que sería utilizado en la Landing Page y redes sociales de la comunidad:
+* El primer prototipo que queremos mostrar en el diseño de una cabecera, que sería utilizado en la Landing Page, página web y redes sociales de la comunidad:
 
-![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/P%C3%A1gina%20web.jpg)
+![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/Cabecera.png)
 
-* A continuación, mostramos una primera imagen del prototipo de nuestra Landing Page, con el objetivo de captar a los posibles suscriptores.
+* A continuación, mostramos una primera imagen del prototipo de nuestra Landing Page, con el objetivo de captar a los posibles suscriptores y sumarlos a la comunidad:
 
-![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/P%C3%A1gina%20web.jpg)
+![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/Landing%20Page.png)
 
 * En el siguiente enlace, tenemos una primera interfaz de lo que sería nuestra página web: https://davidgarcia2411.github.io/Web-Site/
 
