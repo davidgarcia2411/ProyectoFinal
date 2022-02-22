@@ -65,7 +65,7 @@ Posteriormente, utilizando técnicas de Design Thinking y diseño de experiencia
 
 Actividades realizadas mediante Trello https://trello.com/b/kLcsXX37/planificaci%C3%B3n-del-proyecto
 
-![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/Trello%20proyecto.jpg)
+![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/Trello.png)
 
 En esta imagen de Trello, se pueden apreciar las actividades que componen el cronograma de trabajo, de modo que los miembros del equipo sepan en qué estado se encuentra cada una de ellas y su evolución.
 
