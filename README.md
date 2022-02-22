@@ -101,6 +101,10 @@ Nuestro público serán trabajadores entre 20 y 45 años, que actualmente se enc
 
 4. Se debe firmar un documento de confidencialidad, de modo que la empresa que acoge al colaborador no tenga temor alguno sobre el manejo que se de a su información empresarial y su saber hacer, ni tampoco la empresa que envía a la persona.
 
+Para una mejor comprensión de la idea, a nivel de procesos, a continuación mostramos un diagrama en BPMN que permite tener una idea global:
+
+![WhatsApp Image 2022-01-26 at 8 00 02 PM](https://github.com/davidgarcia2411/ProyectoFinal/blob/main/P%C3%A1gina%20web.jpg)
+
 ### Etapa 2: Prototipar / productos 
 
 * A continuación, queremos mostrar una primera interfaz de lo que sería nuestra página web: https://davidgarcia2411.github.io/Web-Site/
