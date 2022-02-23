@@ -163,14 +163,13 @@ Está claro que la mayoría de personas ve muy interesante poder hacer parte de 
 
 ### Referencias y recursos: 
  
-* Para la propuesta de comunidad online, utilizamos los siguientes recursos:
+Para la propuesta de comunidad online, utilizamos los siguientes recursos:
 
-* Repositorio de código GitHub para la descripción del proyecto.
-* Herramientas para crear página web en GitHub.
-* Herramienta de prototipado Just In Mind.
-* Trello para la planificación y seguimiento de las actividades.
-* Canva para la presentación de la comunidad.
-* Técnicas de Brainstorming y Design Thinking para dar forma a la propuesta.
+* [Repositorio de código GitHub para crear la propuesta] (https://github.com/)
+* [Herramienta de prototipado Just In Mind] (https://www.justinmind.com/)
+* [Trello para la planificación del proyecto] (https://www.justinmind.com/)
+* [Canva para la presentación de la comunidad] (https://www.canva.com/)
+* [Técnicas de Design Thinking en el proceso] (https://www.designthinking.es/inicio/index.php)
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html)
